@@ -144,4 +144,4 @@ namespace TurkBayragi
             formmGraphics.DrawArc(formmPen, new RectangleF(g * 29 / 80 + ekstra + ekleX, g * 3 / 10 + ekstra + ekleY, g * 2 / 5, g * 2 / 5), 45, 270);   // Hilal İç Çember
         }
     }
-}
+} 
